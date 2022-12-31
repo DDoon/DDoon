@@ -4,10 +4,10 @@
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-round&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-round&logo=Sass&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Javascript-6DB33F?style=flat-round&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Typescript-6DB33F?style=flat-round&logo=typescriptt&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-339933?style=flat-round&logo=react&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Vue-000000?style=flat-round&logo=Vue&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScriptt&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-round&logo=react&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-round&logo=Vue.js&logoColor=white"/></a>&nbsp
   <br>
 
 </p>
