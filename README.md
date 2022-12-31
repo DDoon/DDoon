@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=white"/></a>&nbsp 
   <br>
-
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-round&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-round&logo=Vue.js&logoColor=white"/></a>&nbsp
   <br>
