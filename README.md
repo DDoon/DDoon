@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Javascript-6DB33F?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Typescript-6DB33F?style=flat-square&logo=typescriptt&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-339933?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Vue-000000?style=flat-square&logo=vue&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vue-000000?style=flat-square&logo=Vue&logoColor=white"/></a>&nbsp
   <br>
 
 </p>
