@@ -39,7 +39,7 @@
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=DDoon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=58A6FF&count_private=true" style="height:180px">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDoon&layout=compact&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0&title_color=58A6FF&text_color=fff" style="height:180px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doon&layout=compact&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0&title_color=58A6FF&text_color=fff" style="height:180px"/>
 </div>
 
 
