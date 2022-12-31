@@ -1,6 +1,6 @@
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=Html&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML-6DB33F?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-3766AB?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SCSS-ffb13b?style=flat-square&logo=scss&logoColor=white"/></a>&nbsp 
   <br>
