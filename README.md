@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-6DB33F?style=flat-square&logo=html&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-3766AB?style=flat-square&logo=Css&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SCSS-#CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SCSS-3766AB?style=flat-square&logo=#CC6699&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Javascript-6DB33F?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Typescript-6DB33F?style=flat-square&logo=typescriptt&logoColor=white"/></a>&nbsp 
