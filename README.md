@@ -1,7 +1,7 @@
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-round&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SCSS-3766AB?style=flat-square&logo=#CC6699&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Javascript-6DB33F?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
