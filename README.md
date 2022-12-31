@@ -23,6 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DDoon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=49.2% />
 </div>
 <a href="https://github.com/devpla/github-stats">
- <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width=49.2% />
+ <img src="https://raw.githubusercontent.com/DDoon/github-stats/output/generated/languages.svg" width=49.2% />
 </a>
 
