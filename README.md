@@ -1,8 +1,9 @@
 # Park Sung Bean 🐥
-<h3 align="center">💪🏼Skills</h3>
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+SungBean.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 </div>
+<h3 align="center">💪🏼Skills</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-round&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-round&logo=CSS3&logoColor=white"/></a>&nbsp 
