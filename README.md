@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h3 textcolor="58A6FF">Platforms & Languages</h3>
+<h3>💪🏼Skills</h3>
  </div>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-round&logo=HTML5&logoColor=white"/></a>&nbsp
@@ -23,7 +23,7 @@
 
 
 <div align="center">
-<h3 >Tool</h3>
+<h3>⚙️Tool</h3>
  </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-round&logo=Git&logoColor=white"/></a>&nbsp
