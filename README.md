@@ -23,13 +23,12 @@
 
 
 <div align="center">
-<h3 textcolor="58A6FF">Tool</h3>
+<h3 >Tool</h3>
  </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-round&logo=Git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-round&logo=GitHub3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-round&logo=GitLab&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-round&logo=Slack&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-round&logo=Jira&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/></a>&nbsp 
